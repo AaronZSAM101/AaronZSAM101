@@ -1,2 +1,0 @@
-# AaronZSAM
-Personal Introduction
