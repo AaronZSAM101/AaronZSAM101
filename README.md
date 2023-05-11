@@ -1,6 +1,6 @@
 一个简单的自我介绍.jpg
 
-**XMUer(XUIC), 坐标ZSAM, 航空爱好者**
+**XMUer(XUIC), 坐标ZSAM, 航空爱好者，穹比**
 
 编程学习中
 
