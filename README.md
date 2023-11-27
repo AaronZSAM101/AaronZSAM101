@@ -2,7 +2,7 @@
 -----
 
 - **XMUer** Xiamen University International College
-- **VATSIM VATPRC** S2 Controller/S3 Student/P0 
+- **VATSIM VATPRC** S3 Controller/Member of VATPRC-SOP & VATPRC-Wiki
 - **Amateur Aviation Photographer** 📍 Xiamen Gaoqi - ZSAM | [Jetphotos.net Profile](https://www.jetphotos.com/photographer/130228) / [Planespotters.net Gallery](https://www.planespotters.net/photos/gallery/Aaron_Mengqiu_Liu)
 - **Coding Learning** Studying **Python / C#**
 - **星语Official** Welcome to my sweetheart❤'s [Personal Homepage](https://simonlily.github.io/)
