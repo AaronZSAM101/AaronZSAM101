@@ -2,7 +2,7 @@
 -----
 
 <div>
-  <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/da141f4f-3375-4cf2-a1b8-de2eb713d8c7” alt="XMU" height=30%/> 
+  <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/da141f4f-3375-4cf2-a1b8-de2eb713d8c7” alt="XMU" height=20%/> 
 
 </div>
 
