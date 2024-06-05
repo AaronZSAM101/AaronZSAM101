@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AaronZSAM101" width=40%/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronZSAM101&layout=compact&langs_count=8&card_width=320" width=39%/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AaronZSAM101&layout=compact&langs_count=8&card_width=320" width=39.5%/>
   </a>
 </div>
 
