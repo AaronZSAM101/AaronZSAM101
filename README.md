@@ -11,7 +11,9 @@
   <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/82280d0a-f84c-4fbb-9000-0dc6bd97a12c" alt="VATAPAC" width=20% align="left" />
   <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/85dc782d-44bf-416b-b969-b28fdb555615" alt="VATPRC" width=20% />
   <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/19ff7762-0c60-4080-aa99-271c413fa73e" alt="VATHK" width=20% />
+  <img src="https://github.com/user-attachments/assets/9c869a0a-1df1-4193-90a9-972cadae1117" alt="VATROC" width=20% />
 </div>
+
 
 - **Amateur Aviation Photographer** 📍Xiamen Gaoqi - ZSAM | [Jetphotos.net Profile](https://www.jetphotos.com/photographer/130228) / [Planespotters.net Gallery](https://www.planespotters.net/photos/gallery/Aaron_Mengqiu_Liu)
 - **Coding Learning**
