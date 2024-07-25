@@ -20,8 +20,6 @@
   <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/2fec83ae-804b-438c-9937-40b9d6f6e5b6" alt="python" width=20% />
 </div>
 
-- **星语Official** Welcome to my sweetheart❤'s [Personal Homepage](https://simonlily.github.io/)
-
 📈 My Github Status
 -----
 <div>
