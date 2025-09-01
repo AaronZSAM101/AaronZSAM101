@@ -2,18 +2,10 @@
 -----
 
 <div>
-  <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/da141f4f-3375-4cf2-a1b8-de2eb713d8c7” alt="XMU" height=20%/> 
+  <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/da141f4f-3375-4cf2-a1b8-de2eb713d8c7” alt="XMU" height=2%/> 
+  <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/1b305b6c-c3f0-4f57-86fb-2f2a164d7443” alt="RMIT" height=1%/> 
 
 </div>
-
-- **S3 Controller, service for**
-<div>
-  <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/82280d0a-f84c-4fbb-9000-0dc6bd97a12c" alt="VATAPAC" width=20% align="left" />
-  <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/85dc782d-44bf-416b-b969-b28fdb555615" alt="VATPRC" width=20% />
-  <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/19ff7762-0c60-4080-aa99-271c413fa73e" alt="VATHK" width=20% />
-  <img src="https://github.com/user-attachments/assets/9c869a0a-1df1-4193-90a9-972cadae1117" alt="VATROC" width=20% />
-</div>
-
 
 - **Amateur Aviation Photographer** 📍Xiamen Gaoqi - ZSAM | [Jetphotos.net Profile](https://www.jetphotos.com/photographer/130228) / [Planespotters.net Gallery](https://www.planespotters.net/photos/gallery/Aaron_Mengqiu_Liu)
 - **Coding Learning**
