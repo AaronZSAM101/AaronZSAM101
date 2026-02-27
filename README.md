@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Xiamen Gaoqi International Airport (ZSAM) & Melbourne Tullamarine Inter national Airport (YMML)
+  📍 Xiamen Gaoqi International Airport (ZSAM) & Melbourne Tullamarine International Airport (YMML)
 </p>
 
 <p align="center">
