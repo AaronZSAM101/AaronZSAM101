@@ -11,7 +11,7 @@
 ![My vatsim indicator](https://my.vatsim.net/indicators/1478665)
 ---
 
-### 📸 Aviation Photography
+### My Aviation Photography
 <p align="left">
   <a href="https://www.jetphotos.com/photographer/130228">JetPhotos</a> ·
   <a href="https://www.planespotters.net/photos/gallery/Aaron_Mengqiu_Liu">Planespotters</a>
@@ -19,7 +19,7 @@
 
 ---
 
-### 🧑‍💻 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://github.com/AaronZSAM101/AaronZSAM101/assets/60245950/b01df7c3-4a9f-4977-83d1-2cd5b158218a" alt="C#" width="120"/>
