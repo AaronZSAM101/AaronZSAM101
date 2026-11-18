@@ -14,7 +14,7 @@
 ### My Aviation Photography
 <p align="left">
   <a href="https://www.jetphotos.com/photographer/130228">JetPhotos</a> ·
-  <a href="https://www.planespotters.net/photos/gallery/Aaron_Mengqiu_Liu">Planespotters</a>
+  <a href="https://www.planespotters.net/photos/gallery/BH5UQQ">Planespotters</a>
 </p>
 
 ---
